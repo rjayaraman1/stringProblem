@@ -12,3 +12,10 @@ Write methods for each solution.
 Afterwards, write a TestNG or JUnit class for each solution which tests these methods.<br>
 Include both positive and negative cases for validations.
 
+Solution
+--------
+1. Test code is located in the  test folder
+2. This is a maven project
+3. pom.xml has required dependencies
+4. Source code is located in the  main folder
+5. Test cases file name: TestcasesStringProblem
