@@ -1,0 +1,23 @@
+
+Problem: Given a String and a Character, remove all instances of the Character in the String
+
+Solve this by using two ways:
+1. Iterate through the String, one character at a time
+2. Find a method in the String class that can solve this in one line
+
+Test cases for String  problem
+
+Positive Tests
+1. Verify the method by passing valid string and the character to be removed
+2. Verify the method by passing empty string with no space and the character to be removed
+3. Verify the method by passing empty string with many spaces and the character to be removed
+4. Verify the method by passing a string with number, special characters and the character to be removed
+5. Verify the method by passing a string with one character and the character to be removed
+6. Verify the method by passing a string with many characters and numbers 
+
+
+Negative Tests
+7. Verify the method by passing an uninitialized string and a character to be removed
+8. Verify the method by passing null and a character to be removed
+
+
